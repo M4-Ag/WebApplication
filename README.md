@@ -7,4 +7,4 @@ El crecimiento del actual equipo ha ocasionado que no se tenga tan claro la estr
 ## Solución
 Diseño de aplicación web en donde se implementará una conexión a una base de datos en donde se tengan registrados y almacenados los datos que se recopilen de los integrantes del equipo. De esta forma se facilitará el acceso a ellos cuando sean requeridos. Contará con distintas opciones para mantener la integridad de la información, permitiendo actualizar campos o eliminar registros que ya no sean necesarios.
 
-## Requerimientos [/github.com/M4-Ag/WebApplication/wiki]
+## Requerimientos [Link](https://github.com/M4-Ag/WebApplication/wiki)
